@@ -79,7 +79,7 @@ Add score tracking
 Ask user to continue instead of fixed rounds
 
 Handle invalid input before accessing dictionary
-
-📌 Author
+## 👤 Author
+Vasudev******
 
 Made for learning Python basics, conditions, and random module.
